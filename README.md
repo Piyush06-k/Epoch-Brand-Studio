@@ -6,7 +6,6 @@ A modern, responsive brand studio website built with **React**, **TypeScript**, 
 
 * Modern and responsive user interface
 * Fast performance powered by Vite
-* Mobile-friendly design
 * Component-based architecture
 * TypeScript support
 * Optimized production build
