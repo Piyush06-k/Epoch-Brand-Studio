@@ -46,5 +46,5 @@ If you enjoyed this project, consider giving it a star !
 
 ---
 
-## Thanks
+## Thanks !
 
