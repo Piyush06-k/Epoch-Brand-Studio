@@ -41,3 +41,10 @@ Add your Netlify link here:
 ```
 https://epochbrandstudio.netlify.app
 ```
+
+If you enjoyed this project, consider giving it a star !
+
+---
+
+## Thanks
+
